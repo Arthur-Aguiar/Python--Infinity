@@ -1,5 +1,5 @@
 <p>
- <img src="./arquivos/bg.jpg" alt="foto de programação em python" width="30%" />
+ <img src="./arquivos/bg.jpg" alt="foto de programação em python" width="50%" />
 </p>
 
 ## 🖥️ Curso
