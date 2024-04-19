@@ -1,7 +1,3 @@
-<p>
- <img src="./arquivos/bg.jpg" alt="foto de programação em python" width="50%" />
-</p>
-
 ## 🖥️ Curso
 
 Esse é um repositorio Web desenvolvido durante o curso de Data da Infinity School com o professor Luan Oliveira para o modulo de Python.
